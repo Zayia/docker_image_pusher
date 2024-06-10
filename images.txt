@@ -12,3 +12,4 @@ linuxserver/transmission
 diygod/rsshub
 browserless/chrome
 redis:alpine
+freshrss/freshrss
