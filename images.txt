@@ -1,2 +1,3 @@
 weejewel/wg-easy
 shadowsocks/shadowsocks-libev
+wangqiru/ttrss
