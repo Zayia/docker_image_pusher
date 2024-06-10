@@ -9,3 +9,6 @@ postgres:16-alpine
 plexinc/pms-docker
 jxxghp/moviepilot
 linuxserver/transmission
+diygod/rsshub
+browserless/chrome
+redis:alpine
