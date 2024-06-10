@@ -1,1 +1,2 @@
 weejewel/wg-easy
+shadowsocks/shadowsocks-libev
