@@ -1,3 +1,7 @@
 weejewel/wg-easy
 shadowsocks/shadowsocks-libev
 wangqiru/ttrss
+wangqiru/mercury-parser-api
+wangqiru/opencc-api-server
+containrrr/watchtower
+postgres:16-alpine
