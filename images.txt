@@ -5,3 +5,7 @@ wangqiru/mercury-parser-api
 wangqiru/opencc-api-server
 containrrr/watchtower
 postgres:16-alpine
+6053537/portainer-ce
+plexinc/pms-docker
+jxxghp/moviepilot
+linuxserver/transmission
